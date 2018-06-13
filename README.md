@@ -1,5 +1,8 @@
 # GARUM
-Similarity metric GARUM.
+A Semantic Similarity Measure Based on Machine Learning and Entity Characteristics
+
+We address the problem of similarity assessment between knowledge graph entities and devise GARUM, a semantic similarity 
+measure for knowledge graphs. GARUM relies on similarities of entity characteristics and computes similarity values considering simultaneously several entity characteristics. This combination can be manually or automatically defined with the help of a machine learning approach.
 
 # Setting up GARUM
 Once you have downloaded the code from GitHub:
